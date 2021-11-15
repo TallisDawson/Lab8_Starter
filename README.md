@@ -1,6 +1,6 @@
 # Lab 8 - Starter
 
-Tallis Dawson
+Tallis Dawson A16608967
 
 1) I would do it automatically in a github action (#1), since that way it won't be forgotten and it's in often enough intervals to edit and fix the code before any problems arise
 2) no
